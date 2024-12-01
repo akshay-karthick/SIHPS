@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:1/12/24
+## Register Number:24002815
+## Name:AKSHAY KARTHICK ASR
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -47,13 +47,36 @@ Feedback and Surveys
 Data collection for improving programs and services.
 
 ## Proposed Solution / Architecture Diagram
+![diagram-export-02-12-2024-00_04_25](https://github.com/user-attachments/assets/59ada897-2d74-40b7-900a-8f6f1d4e1ec0)
 
 
 ## Use Cases
+![New Project (1)](https://github.com/user-attachments/assets/a7366a07-0b73-49ff-8fd5-8052b2117348)
 
 
 ## Technology Stack
+react.js
 
+node.js
+
+MySQL
+
+Google Cloud Platforn
+
+express.js
+
+Razorpay, Stripe, or PayPal for donations
+
+Firebase Cloud Messaging (FCM)
+
+GitLab CI
+
+Socket.io
 
 ## Dependencies
 
+Mapping service- 8 days
+
+Data collection- 8 days
+
+budget- rs.35,000
